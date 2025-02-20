@@ -1,3 +1,5 @@
+from lexer import Lexer
+from parser import Parser
 # Test Code
 source_code = '''
 def add(x, y):
